@@ -1,12 +1,12 @@
 # WeatherApp
-Study from Nomad Coders.
-Developed using language REACT NATIVE.
-Location Detection
-Inform the current location of the user and the weather accordingly.
+Study from Nomad Coders.<br>
+Developed using language REACT NATIVE.<br>
+Location Detection<br>
+Inform the current location of the user and the weather accordingly.<br>
 
-Import
-Location from expo-location
-StatusBar from expo-status-bar
-UseState, UseEffect from react
-StyleSheet, Text, View, ScrollView, Dimensions, ActivityIndicator from react-native
-Fontisto from @expo/vector-icons
+<b>Import</b><br>
+Location from expo-location<br>
+StatusBar from expo-status-bar<br>
+UseState, UseEffect from react<br>
+StyleSheet, Text, View, ScrollView, Dimensions, ActivityIndicator from react-native<br>
+Fontisto from @expo/vector-icons<br>
